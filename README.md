@@ -1,4 +1,4 @@
-# txt files tranfer to xlsx file
+# txt file tranfer to xlsx file
 ## instruction
 1.  Open convert.exe
 2.  Click "Select file"
